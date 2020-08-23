@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Lil Drummer Boy",
+        "age": 2,
+        "image": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_3680.jpg"
+    },
+    {
+        "name": "Thug Wife",
+        "age": 7,
+        "image": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_7172.jpg"
+    },
+    {
+        "name": "Woody Wu",
+        "age": 5,
+        "image": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_1760.jpg"
+    },
+    {
+        "name": "Lil Lion Man",
+        "age": 2,
+        "image": "https://images.dog.ceo/breeds/retriever-golden/n02099601_342.jpg"
+    },
+    {
+        "name": "Investment Bank",
+        "age": 6,
+        "image": "https://images.dog.ceo/breeds/samoyed/n02111889_5679.jpg"
+    },
+    {
+        "name": "Gun Owner",
+        "age": 9,
+        "image": "https://images.dog.ceo/breeds/coonhound/n02089078_825.jpg"
+    }
+]
